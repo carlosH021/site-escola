@@ -1,1 +1,1 @@
-# site-escola-prot-tipo
+# site-escola
