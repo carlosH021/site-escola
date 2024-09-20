@@ -28,7 +28,6 @@ body{
 .escola-imagem{
     width: 25%;
 }
-
 .escola{
 background-image: linear-gradient(#424e61,#4befe9);
 color: #ffffff;
@@ -43,4 +42,7 @@ padding: 24px 0;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
 }
